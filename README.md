@@ -1,0 +1,1 @@
+# wp-statuspage-io-plugin
